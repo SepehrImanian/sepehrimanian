@@ -1,7 +1,18 @@
-👋 Hey there! I'm a seasoned DevOps engineer with 5+ years of hands-on experience in automating, optimizing, and maintaining mission-critical deployments. I thrive on tackling new challenges and collaborating with teams to achieve exceptional results.
+# Hi 👋, I'm Sepehr Imanian
 
-🚀 Throughout my career, I've spearheaded the transformation of infrastructure projects for many different companies into efficient and scalable containerized setups. Leveraging GitOps, infrastructure as code (IaC), policy as code, and configuration management practices, I've delivered seamless and reliable deployment processes.
-
-🔧 Passionate about exploring cutting-edge technologies and best practices.
+I'm a seasoned DevOps engineer with 5+ years of hands-on experience automating, optimizing, and maintaining mission-critical deployments. Working with teams to achieve outstanding results is what I enjoy most about my job. I thrive on taking on new challenges.
 
 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out for any queries or collaborations. 😊
+
+## My Technical Skills
+* Programming Languages & Scripting: **Golang**, **JavaScript(Node.js)**, **Bash**
+* Container Orchestration: **Kubernetes**
+* Service Mesh & Progressive Delivery: **Linkerd**, **Flagger**
+* CI/CD & GitOps: **Jenkins**, **Gitlab CI/CD**, **ArgoCD**
+* RDBMS & NoSQL: **MySQL**, **Redis**, **MongoDB**, **Elasticsearch**
+* Monitoring Solutions: **Prometheus**, **Grafana**
+* Log Solutions: **Fluentd**, **Logstash**, **Loki**
+* Config Management & IaC: **Ansible**, **Terraform**, **Helm**
+* Event Driven Applications: **Knative**, **KEDA**
+* Private Clouds: **AWS**
+* Message Brokers: **Kafka**, **RabbitMQ**
