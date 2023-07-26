@@ -10,14 +10,15 @@ Let's connect and collaborate on exciting projects! Feel free to explore my repo
 [![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:sepehrimaniann@gmail.com)
 
 ## My Technical Skills
-* Programming Languages & Scripting: **Golang**, **JavaScript(Node.js)**, **Bash**
+* Programming Languages & Scripting: **Golang**, **JavaScript(Node.js)**, **TypeScript**, **Bash**
 * Container Orchestration: **Kubernetes**
 * Service Mesh & Progressive Delivery: **Linkerd**, **Flagger**
-* CI/CD & GitOps: **Jenkins**, **Gitlab CI/CD**, **ArgoCD**
+* CI/CD & GitOps: **Jenkins**, **Gitlab CI/CD**, **ArgoCD**, **GitHub Actions**
 * RDBMS & NoSQL: **MySQL**, **Redis**, **MongoDB**, **Elasticsearch**
 * Monitoring Solutions: **Prometheus**, **Grafana**
 * Log Solutions: **Fluentd**, **Logstash**, **Loki**
-* Config Management & IaC: **Ansible**, **Terraform**, **Helm**
+* Configuration Management & IaC: **Ansible**, **Terraform**, **Helm**
 * Event Driven Applications: **Knative**, **KEDA**
-* Private Clouds: **AWS**
+* Public Clouds: **AWS**
+* Knowledge of Networking: **TCP/IP**, **CCNA**, **Network+**
 * Message Brokers: **Kafka**, **RabbitMQ**
