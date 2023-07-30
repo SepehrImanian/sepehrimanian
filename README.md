@@ -21,7 +21,7 @@ Let's connect and collaborate on exciting projects! Feel free to explore my repo
 - [**ansible-role-haproxy:** Ansible Role For Setup (Haproxy, Keepalived)](https://github.com/AvengersOfAutomations/ansible-role-haproxy)
   * Setup Multi Instance HAproxy With Keepalived
 - [**ansible-tutorial:** Ansible Tutorial Step By Step](https://github.com/SepehrImanian/ansible-tutorial)
-- [**linkerd-docs:** My Linkerd & Flagger Documentation](https://github.com/SepehrImanian/linkerd-docs)
+- [**Linkerd-Flagger-Tutorial:** My Linkerd & Flagger Tutorial](https://github.com/SepehrImanian/Linkerd-Flagger-Tutorial.git)
 - [**s3-ceph-exporter:** A Prometheus Exporter For Monitoring RGW,S3 in Ceph](https://github.com/SepehrImanian/s3-ceph-exporter)
 
 ## My Technical Skills
