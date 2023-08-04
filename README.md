@@ -1,4 +1,5 @@
 # Hi 👋, I'm Sepehr Imanian
+[![](https://visitcount.itsvg.in/api?id=SepehrImanian&label=Profile%20Views&color=4&pretty=false)](https://visitcount.itsvg.in)
 
 I'm a seasoned DevOps engineer with 5+ years of hands-on experience automating, optimizing, and maintaining mission-critical deployments. Working with teams to achieve outstanding results is what I enjoy most about my job. I thrive on taking on new challenges.
 
