@@ -35,6 +35,5 @@ Let's connect and collaborate on exciting projects! Feel free to explore my repo
 * Log Solutions: **Fluentd**, **Logstash**, **Loki**
 * Configuration Management & IaC: **Ansible**, **Terraform**, **Helm**
 * Kubernetes Event Driven: **Knative**, **KEDA**
-* Public Clouds: **AWS**
 * Knowledge of Networking: **TCP/IP**, **CCNA**, **Network+**
 * Message Brokers: **Kafka**, **RabbitMQ**
