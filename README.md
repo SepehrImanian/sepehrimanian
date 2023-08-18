@@ -11,6 +11,16 @@ Let's connect and collaborate on exciting projects! Feel free to explore my repo
 [![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:sepehrimaniann@gmail.com)
 
 ## Highlights
+#### My Projects
+- [**terraform-provider-haproxy:** Terraform HAProxy Provider](https://github.com/SepehrImanian/terraform-provider-haproxy)
+  * Robust Testing Suite: end-to-end (E2E), unit, and integration tests
+  * Runtime Changes
+  * Configuration Validation
+- [**s3-ceph-exporter:** A Prometheus Exporter For Monitoring RGW,S3 in Ceph](https://github.com/SepehrImanian/s3-ceph-exporter)
+  * Grafana Dashboards
+  * Robust Testing Suite: end-to-end (E2E), unit, and integration tests
+
+#### Ansible Playbooks and Roles
 - [**ansible-etcd-cluster:** Ansible Playbook For Setup Etcd Cluster](https://github.com/SepehrImanian/ansible-etcd-cluster)
   * Install Etcd Cluster With Or Without TLS
   * Specific Ansible Role For Destory Etcd Cluster
@@ -21,9 +31,16 @@ Let's connect and collaborate on exciting projects! Feel free to explore my repo
   * Ansible Role For Destroying Clusters Without Losing Data
 - [**ansible-role-haproxy:** Ansible Role For Setup (Haproxy, Keepalived)](https://github.com/AvengersOfAutomations/ansible-role-haproxy)
   * Setup Multi Instance HAproxy With Keepalived
+  * Idempotent Execution
+  * Customizable Configuration
+#### Tutorials
 - [**ansible-tutorial:** Ansible Tutorial Step By Step](https://github.com/SepehrImanian/ansible-tutorial)
+  * Troubleshooting and Best Practices
+  * Practical Examples
 - [**Linkerd-Flagger-Tutorial:** My Linkerd & Flagger Tutorial](https://github.com/SepehrImanian/Linkerd-Flagger-Tutorial.git)
-- [**s3-ceph-exporter:** A Prometheus Exporter For Monitoring RGW,S3 in Ceph](https://github.com/SepehrImanian/s3-ceph-exporter)
+  * Step-by-Step Integration
+  * Troubleshooting and Best Practices
+  * Practical Examples
 
 ## My Technical Skills
 * Programming Languages & Scripting: **Golang**, **JavaScript(Node.js)**, **TypeScript**, **Bash**
