@@ -28,7 +28,7 @@ Let's connect and collaborate on exciting projects! Feel free to explore my repo
   * Disk Management Configurable
   * Dns Configurable
   * Ansible Role For Destroying Clusters Without Losing Data
-- [**ansible-role-haproxy:** Ansible Role For Setup (Haproxy, Keepalived)](https://github.com/AvengersOfAutomations/ansible-role-haproxy)
+- [**ansible-role-haproxy:** Ansible Role For Setup (Haproxy, Keepalived, Data Plane API)](https://github.com/AvengersOfAutomations/ansible-role-haproxy)
   * Setup Multi Instance HAproxy With Keepalived
   * Idempotent Execution
   * Customizable Configuration
