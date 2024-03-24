@@ -40,16 +40,3 @@ Let's connect and collaborate on exciting projects! Feel free to explore my repo
   * Step-by-Step Integration
   * Troubleshooting and Best Practices
   * Practical Examples
-
-## My Technical Skills
-* Programming Languages & Scripting: **Golang**, **JavaScript(Node.js)**, **TypeScript**, **Bash**
-* Container Orchestration: **Kubernetes**
-* Service Mesh & Progressive Delivery: **Linkerd**, **Flagger**
-* CI/CD & GitOps: **Jenkins**, **Gitlab CI/CD**, **ArgoCD**, **GitHub Actions**
-* RDBMS & NoSQL: **MySQL**, **Redis**, **MongoDB**, **Elasticsearch**
-* Monitoring Solutions: **Prometheus**, **Grafana**
-* Log Solutions: **Fluentd**, **Logstash**, **Loki**
-* Configuration Management & IaC: **Ansible**, **Terraform**, **Helm**
-* Kubernetes Event Driven: **Knative**, **KEDA**
-* Knowledge of Networking: **TCP/IP**, **CCNA**, **Network+**
-* Message Brokers: **Kafka**, **RabbitMQ**
