@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sepehr Imanian
 <img src="https://komarev.com/ghpvc/?username=SepehrImanian&style=flat-square&color=blue" alt=""/>
-I'm a seasoned DevOps engineer with 6+ years of hands-on experience automating, optimizing, and maintaining mission-critical deployments. Working with teams to achieve outstanding results is what I enjoy most about my job. I thrive on taking on new challenges.
+I'm a seasoned DevOps engineer with 7+ years of hands-on experience automating, optimizing, and maintaining mission-critical deployments. Working with teams to achieve outstanding results is what I enjoy most about my job. I thrive on taking on new challenges.
 
 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out for any queries or collaborations. 😊
 
