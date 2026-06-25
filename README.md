@@ -15,54 +15,6 @@ I build platform infrastructure for high-traffic systems serving 20M+ users — 
 
 ---
 
-## Skills
-
-### **Languages**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-### **Kubernetes & Cloud Native**
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-![Linkerd](https://img.shields.io/badge/Linkerd-2BEDA7?style=flat-square&logo=linkerd&logoColor=black)
-![Cilium](https://img.shields.io/badge/Cilium-F8C517?style=flat-square&logo=cilium&logoColor=black)
-
-Custom operators · admission webhooks · CRDs · HPA/VPA/KEDA · Kubebuilder / controller-runtime
-
-### **eBPF & Linux Internals**
-
-![eBPF](https://img.shields.io/badge/eBPF-F6931B?style=flat-square&logo=linux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-Tetragon · bpftrace · libbpf · kprobes/uprobes · cgroups v2 · namespaces · kernel tuning (sysctl, NUMA, CPU scheduler) · TCP/IP internals (conntrack, TIME_WAIT, BBR, BIG TCP)
-
-### **Platform Engineering**
-
-![Backstage](https://img.shields.io/badge/Backstage-9BF0E1?style=flat-square&logo=backstage&logoColor=black)
-![Crossplane](https://img.shields.io/badge/Crossplane-EF7B4D?style=flat-square&logo=crossplane&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-
-### **Observability**
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
-
-Thanos · VictoriaMetrics · Alertmanager · EFK Stack · custom eBPF probes
-
-### **Security & Networking**
-
-![HAProxy](https://img.shields.io/badge/HAProxy-1188D7?style=flat-square&logo=haproxy&logoColor=white)
-
-Tetragon (eBPF) · DevSecOps (Semgrep, Trivy, Grype, Syft) · Keycloak · OAuth2-Proxy · ModSecurity · Teleport  
-BGP · VXLAN · netfilter/nftables · L4/L7 load balancing (HAProxy, Nginx, Envoy) · CCNA/CCNP
-
----
-
 ## Projects
 
 ### Kubernetes Operators & Controllers
