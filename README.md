@@ -17,12 +17,12 @@ I build platform infrastructure for high-traffic systems serving 20M+ users — 
 
 ## Skills
 
-**Languages**
+### **Languages**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-**Kubernetes & Cloud Native**
+### **Kubernetes & Cloud Native**
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
@@ -32,21 +32,21 @@ I build platform infrastructure for high-traffic systems serving 20M+ users — 
 
 Custom operators · admission webhooks · CRDs · HPA/VPA/KEDA · Kubebuilder / controller-runtime
 
-**eBPF & Linux Internals**
+### **eBPF & Linux Internals**
 
 ![eBPF](https://img.shields.io/badge/eBPF-F6931B?style=flat-square&logo=linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 Tetragon · bpftrace · libbpf · kprobes/uprobes · cgroups v2 · namespaces · kernel tuning (sysctl, NUMA, CPU scheduler) · TCP/IP internals (conntrack, TIME_WAIT, BBR, BIG TCP)
 
-**Platform Engineering**
+### **Platform Engineering**
 
 ![Backstage](https://img.shields.io/badge/Backstage-9BF0E1?style=flat-square&logo=backstage&logoColor=black)
 ![Crossplane](https://img.shields.io/badge/Crossplane-EF7B4D?style=flat-square&logo=crossplane&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
-**Observability**
+### **Observability**
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
@@ -54,7 +54,7 @@ Tetragon · bpftrace · libbpf · kprobes/uprobes · cgroups v2 · namespaces ·
 
 Thanos · VictoriaMetrics · Alertmanager · EFK Stack · custom eBPF probes
 
-**Security & Networking**
+### **Security & Networking**
 
 ![HAProxy](https://img.shields.io/badge/HAProxy-1188D7?style=flat-square&logo=haproxy&logoColor=white)
 
