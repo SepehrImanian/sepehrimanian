@@ -27,6 +27,12 @@ I build platform infrastructure for high-traffic systems serving 20M+ users — 
 
 ### Networking & System Daemons
 
+- [**nat-ebpf-xdp**](https://github.com/SepehrImanian/nat-ebpf-xdp) — High-performance NAT (SNAT/DNAT) implemented in eBPF, attached at the XDP hook for near line-rate packet translation before the Linux kernel network stack is involved
+  - Full TCP, UDP, and ICMP support with connection tracking via LRU hash maps (automatic eviction of stale entries)
+  - Zero-copy packet processing at the XDP hook; 2–4 Mpps in generic mode, 10–20 Mpps in native driver mode
+  - Incremental L3/L4 checksum updates per RFC 1624; runtime-tunable port pools and per-protocol timeouts
+  - Ring-buffer event streaming, live connection dump, and statistics reporting for observability
+
 - [**glbp**](https://github.com/SepehrImanian/glbp) — Linux daemon (Go) implementing GLBP-inspired gateway load balancing with virtual IP election and rotating virtual MACs
   - Multicast UDP hello protocol with priority-based AVG election and optional preemption
   - Round-robin ARP MAC distribution to spread client connections across multiple routers
@@ -34,9 +40,11 @@ I build platform infrastructure for high-traffic systems serving 20M+ users — 
 
 ### Terraform Providers
 
-- [**terraform-provider-haproxy**](https://github.com/SepehrImanian/terraform-provider-haproxy) — Terraform provider for managing HAProxy configuration
-  - End-to-end, unit, and integration test suite
-  - Supports runtime changes and configuration validation
+- [**terraform-provider-haproxy**](https://github.com/SepehrImanian/terraform-provider-haproxy) — Terraform provider for managing HAProxy configuration via the HAProxy Data Plane API, enabling infrastructure-as-code workflows for load balancer resources
+  - Manages frontends, backends, servers, ACLs, bind sockets, and global/defaults sections as Terraform resources
+  - Supports runtime configuration changes through the Data Plane API without requiring HAProxy restarts
+  - Validates configuration before applying to catch errors early in the plan phase
+  - Full end-to-end, unit, and integration test suite; published to the Terraform Registry
 
 ### Observability
 
