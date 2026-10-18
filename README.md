@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=SepehrImanian&style=flat-square&color=blue" alt="Profile views"/>
 
-**Senior Platform Engineer & DevOps Lead · 8+ Years · Kubernetes · Go · eBPF**
+**Senior Platform Engineer & DevOps Lead · 9+ Years · Kubernetes · Go · eBPF**
 
 I build platform infrastructure for high-traffic systems serving 20M+ users — custom Kubernetes operators in Go, low-level Linux/eBPF security tooling, and Internal Developer Platforms that cut cloud overhead and accelerate delivery. Open source contributor to the Terraform and Cisco ecosystems.
 
